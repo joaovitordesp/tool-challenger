@@ -49,8 +49,8 @@ Este projeto pode ser rodado utilizando o Docker e Docker Compose para criar um 
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/pagamento-api.git
-cd pagamento-api
+git clone https://github.com/joaovitordesp/tool-challenger/
+cd tool-challenger
 ```
 
 ### Passo 2: Rodar o Docker Compose
